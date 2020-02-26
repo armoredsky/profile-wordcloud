@@ -11,6 +11,7 @@ const logHtml = async (url) => {
   }
 }
 
+
 module.exports = {
   logHtml
 }
